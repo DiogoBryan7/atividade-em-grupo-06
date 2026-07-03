@@ -1,70 +1,51 @@
 body {
-    background-color: ligt;
+    background-color: #f8f0d8;
     font-family: Arial, sans-serif;
 }
 
-.lista {
-    width: 500px;
+.receita {
+    width: 600px;
     margin: auto;
-    border: 2px solid black;
-    background-color: lightyellow;
-}
-
-.lista2 {
-    border: 2px solid black;
-    background-color: lightyellow;
-    margin: 5px;
- padding: 5px 5px 5px 5px;
+    padding: 20px;
+    border: 2px solid brown;
+    background-color: white;
 }
 
 .titulo {
     text-align: center;
-    font-size: 30px;;
+    font-size: 32px;
+    color: brown;
 }
 
-.modo-prep {
-    font-size: 10px;
+.subtitulo {
+    font-size: 24px;
 }
 
+.texto {
+    font-size: 18px;
+}
 
 .imagem {
-    width: 350px;
-    height: 200px;
+    width: 300px;
     display: block;
     margin: auto;
-    border: 2px solid black;
+    border: 2px solid brown;
 }
 
-.pudim {
-    background-color: lightyellow;
+.ingredientes {
+    background-color: #fff4b3;
     padding: 10px;
     border: 1px solid black;
 }
 
 .preparo {
-    font-size: ;
-    background-color: lightyellow;
-    padding: 10px;
-    border: 1px solid black;
+    font-size: 18px;
 }
 
 .info {
     display: flex;
     justify-content: space-around;
     margin-top: 20px;
-    padding: 10px;
-    border: 1px solid black;
-}
-
-.texto {
-   background-color: lightyellow;
-    padding: 10px;
-    border: 1px solid black;
-}
-
-.ext {
-    ont-size: ;
-    background-color: lightyellow;
     padding: 10px;
     border: 1px solid black;
 }
